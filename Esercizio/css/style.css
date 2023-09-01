@@ -83,3 +83,27 @@ aside{
     padding-top: 15px;
     padding-bottom: 15px;
 }
+/* garanzie */
+#garanzie{
+    background-color: #e22d0e;
+    padding: 60px;
+}
+
+#garanzie h3{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 0.8em;
+}
+
+#garanzie i{
+    color: white;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+#garanzie p{
+    color: white;
+    font-size: 0.5em;
+    padding-top: 20px;
+}
