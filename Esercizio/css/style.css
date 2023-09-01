@@ -58,3 +58,28 @@ h1{
 main{
     text-align: center;
 }
+
+/* info lavoro */
+
+aside{
+    display: inline;
+    text-align: start;
+    padding-left: 3.2em;
+}
+
+#info-lavoro{
+    display: inline-flex;
+    align-items: center;
+    padding: 3em;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+#info-lavoro img{
+    border-radius: 250px;
+    height: 20em;
+}
+
+ h2{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
