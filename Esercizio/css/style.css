@@ -107,3 +107,25 @@ aside{
     font-size: 0.5em;
     padding-top: 20px;
 }
+
+/* info lavoro */
+
+#strumenti{
+    display: inline-flex;
+    padding: 50px;
+}
+
+.img{
+    height: 30vh;
+}
+
+.img-container{
+    margin: 2em;
+    border: 1px solid #dee1e3;
+}
+
+.img-container h3{
+    color: #25a2c3;
+    font-size: 0.8em;
+    font-family: 'Montserrat', sans-serif;
+}
