@@ -116,7 +116,12 @@ aside{
 }
 
 .img{
-    height: 30vh;
+    width: 100%;
+    
+}
+
+#img1{
+    height: 36vh
 }
 
 .img-container{
@@ -128,4 +133,9 @@ aside{
     color: #25a2c3;
     font-size: 0.8em;
     font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+}
+
+.pag{
+    padding-bottom: 2em;
 }
